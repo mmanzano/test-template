@@ -1,5 +1,8 @@
 {
     "name": "test-template",
+    "require": {
+        "php": ">=7.0.0"
+    },
     "require-dev": {
         "phpunit/phpunit": "6.*"
     },

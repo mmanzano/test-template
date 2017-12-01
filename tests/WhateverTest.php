@@ -3,8 +3,9 @@
 namespace Tests;
 
 use Code\Whatever;
+use PHPUnit\Framework\TestCase;
 
-class WhateverTest extends \PHPUnit_Framework_TestCase
+class WhateverTest extends TestCase
 {
     /** @test */
     public function whatever_test()
